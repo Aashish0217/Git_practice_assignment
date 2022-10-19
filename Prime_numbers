@@ -7,7 +7,7 @@ let isPrime=true;
          isPrime=false;
          break;
      }
- }  if(isprime){
+ }  if(isPrime){
      console.log("Yes");
  }else {
      console.log("No");
